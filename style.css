@@ -1,0 +1,15 @@
+#tom{
+    width: 500px;
+    padding: 65px;
+}
+body{
+    text-align:center;
+}
+#intro{
+    background: linear-gradient(#ffaca1 0%, #ab1400 100%)
+}
+.Link{
+    float: right;
+    color: black;
+    
+}
