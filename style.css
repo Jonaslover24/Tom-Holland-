@@ -13,3 +13,16 @@ body{
     color: black;
     
 }
+.menu {
+    list-style: none;
+    font-size: 24px;
+}
+.links{
+    float:left;
+}
+html{
+    scroll-behavior: smooth;
+}
+a{
+    font-size: 24px;
+}
